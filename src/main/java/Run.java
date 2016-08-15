@@ -3,7 +3,7 @@
  */
 public class Run {
     public static void main(String[] args) {
-        System.out.println("sdfg1");
+        System.out.println("test1");
     }
 
     public static boolean alwaysTrue(){
